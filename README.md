@@ -11,4 +11,11 @@ aidé. A part cela, c'était plûtot facile d'utilisation notamment grâce au fr
 
 Ma version de PHP : PHP 7.3.24
 
+Commandes à faire pour la base de données : 
+
+composer create-project symfony/website-skeleton NOM ^4.4.99
+cd NOM/
+composer require symfony/web-server-bundle --dev
+php bin/console server:run
+
 XU THIERRY
