@@ -8,6 +8,7 @@ php bin/console make:crud
 
 Pour le projet, j'ai eu un peu de mal à trouver comment les 2 entités pouvaient se parler entre elles mais au final, j'ai trouvé grâce à votre mail qui m'a bien
 aidé. A part cela, c'était plûtot facile d'utilisation notamment grâce au framework Symfony.
+Pour ce qui est de la connexion, j'ai réussi à taper la commande pour créer un User et l'authentification mais je n'ai pas eu le temps de finaliser cela.
 
 Ma version de PHP : PHP 7.3.24
 
