@@ -18,4 +18,6 @@ cd NOM/
 composer require symfony/web-server-bundle --dev
 php bin/console server:run
 
+PS : Pour regarder en précision l'article, il faut cliquer sur son nom.
+
 XU THIERRY
