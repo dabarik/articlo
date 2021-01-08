@@ -1,0 +1,14 @@
+{{ form_start(form) }}
+
+    <div class="mb-4">
+        <p style="margin-bottom:0px;">Nom de la catégorie</p>
+        {{ form_widget(form.nom) }}
+    </div>
+
+    <button class="btn">{{ button_label|default('Créer') }}</button>
+
+    <button type="button" class="btn btn-dark"><a href="{{ path('categorie_index') }}" style="color: white;">Retour vers le menu</a></button>
+
+
+{{ form_end(form) }}
+
